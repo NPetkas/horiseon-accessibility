@@ -13,7 +13,7 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     flex-wrap: wrap;
     /* wraps all content for mobile devices using flex-wrap */
-    /* sets the text value for the html body unless specifed on an individual selector */
+    /* sets the text value for the html body unless specified on an individual selector */
 }
 
 header {
@@ -40,14 +40,14 @@ li {
 a {
     color: #ffffff;
     text-decoration: none;
-    /* removes the underline or 'decoration' of the header links  */
+    /* removes the underline or 'decoration' of the header links */
 }
 
 section {
     display: inline-block;
     width: 75%;
     margin-left: 20px;
-    /* displays section content veritcally with 20px spacing from screen edge */
+    /* displays section content vertically with 20px spacing from screen edge */
 }
 
 h2 {
@@ -60,12 +60,12 @@ h2, h3 {
 
 h3, header, footer {
     text-align: center;
-    /* centers company name, links, h3 text, side note, and copyright with text-align */
+    /* centers company name, links, h3 text, side bar, and copyright with text-align */
 }
 
 header, footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    /* separate font independent of body */
+    /* separate font independent of body text */
 }
 
 footer {
@@ -81,7 +81,7 @@ footer {
     margin-bottom: 25px;
     background-size: cover;
     background-position: center;
-    /* adjusts main (hero) image to fit whithin the body content */
+    /* adjusts main (hero) image to fit within the body content */
 }
 
 .search-engine-optimization, .online-reputation-management, 
@@ -103,13 +103,13 @@ footer {
 .float-left {
     float: left;
     margin-right: 25px;
-    /* diplays image to right of text in artilce block */
+    /* diplays image to right of text in article block */
 }
 
 .float-right {
     float: right;
     margin-left: 25px;
-    /* diplays image to left of text in artilce block */
+    /* diplays image to left of text in article block */
 }
 
 .benefits {
@@ -133,5 +133,5 @@ footer {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-    /* sets max image width with spacing and vertical image display in 2nd section */
+    /* sets max image width w/ spacing and vertical display in 2nd section */
 }
