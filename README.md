@@ -1,16 +1,14 @@
-# horiseon-accessibility
+# Horiseon-accessibility
 
 ## Description 
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+My motivation for this project was to understand the general html structure, its relationship with CSS, and the type of typical selectors i'll see throughout my career. This project was built as a novice reference guide for future assignments or projects while also being utilized as an excerise to clean up old code for today's standards. Overall, this project taught me the importance of semantic elements, clean-consice coding, and the additon of accessible alt attributes for screen readers.
 
--what was your motivation?
--why did you build this project? (Note: the answer is not "Because it was homework assignment.")
--what problem does it solve?
--what did you learn?
 
 ![image](./assets/images/Screenshot.png)
 
 ## Link to deploy app
 
-[Deploy Application]() 
+[Deploy Application][def]
+
+[def]: https://nicoinlalaland.github.io/horiseon-accessibility/
