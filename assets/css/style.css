@@ -103,13 +103,13 @@ footer {
 .float-left {
     float: left;
     margin-right: 25px;
-    /* diplays image to right of text in article block */
+    /* displays image to right of text in article block */
 }
 
 .float-right {
     float: right;
     margin-left: 25px;
-    /* diplays image to left of text in article block */
+    /* displays image to left of text in article block */
 }
 
 .benefits {
