@@ -7,7 +7,7 @@ My motivation for this project was to understand the general html structure, its
 
 ![image](./assets/images/screenshot_horiseon-accessibility.png)
 
-## Link to deploy app
+## Deploy app
 
 [Deploy Application][def]
 
